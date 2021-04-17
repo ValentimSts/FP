@@ -1,4 +1,4 @@
 # FP
-Repo containing my submissions for my FP class projects (Programming fundamentals)
-- Jogo do Galo (Tic-Tac-Toe): Tic-Tac-Toe game made in python with 3 dificulties included to play against, the last one of which never looses.
-- Jogo do MOinho (  ): 
+Repo containing my submissions for my FP (Programming fundamentals) class projects, both made in python
+- Tic-Tac-Toe game with 3 dificulties included to play against the computer, the last one of which never looses.
+- Nine men's morris game also containing 3 different levels of difficulty and a minimax algorithm used to choose the best possible move for the computer to take.
